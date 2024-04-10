@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Node and Express**
 
-- 📫 How to reach me: **lovrez2@gmail.com**
-
 - ⚡ **I'm also passionate guitar player and crossfiter**
 
 <h3 align="left">Connect with me:</h3>
