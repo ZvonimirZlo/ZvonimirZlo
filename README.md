@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, Node and Express**
 
-- ⚡ **I'm also passionate guitar player and crossfiter**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codewars.com/users/ZvonimirZlo" target="blank"><img align="center" src="https://www.codewars.com/users/ZvonimirZlo/badges/large" alt="zvonimirzlo" height="30" width="300" /></a>
@@ -53,7 +51,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zvonimirzlo&show_icons=true&locale=en&layout=compact" alt="zvonimirzlo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zvonimirzlo&show_icons=true&locale=en" alt="zvonimirzlo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zvonimirzlo&" alt="zvonimirzlo" /></p>
+
 
