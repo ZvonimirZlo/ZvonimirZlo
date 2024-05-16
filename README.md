@@ -12,7 +12,7 @@
 <h3 align="center">A passionate frontend developer from Croatia</h3>
 
 
-- 🌱 I’m currently learning **React, Redux, Node and Express**
+- 🌱 I’m currently learning **Node and Express**
   
 
 <h3 align="left">Connect with me:</h3>
