@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Zvonimir</h1>
-<h3 align="center">A passionate frontend developer from Croatia</h3>
+<h3 align="center">A frontend developer.</h3>
 
 
 - 🌱 I’m currently learning **Node and Express**
