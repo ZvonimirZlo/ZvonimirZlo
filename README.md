@@ -16,11 +16,6 @@
 
 - 📫 How to reach me: lovrez2@gmail.com
 
-
-<p align="left">
-<a href="https://www.codewars.com/users/ZvonimirZlo" target="blank"><img align="center" src="https://www.codewars.com/users/ZvonimirZlo/badges/large" alt="zvonimirzlo" height="30" width="300" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
