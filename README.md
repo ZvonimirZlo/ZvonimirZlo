@@ -12,8 +12,6 @@
 <h3 align="center">A Front-End Developer.</h3>
 
 
-- 🌱 I’m currently learning **Node and Express**
-
 
 
 
